@@ -42,13 +42,6 @@ cd StudySync
 
 3. Open index.html in your browser.
 
-
-
-# Preview:
-
-
-(Replace with actual image link)
-
 # License:
 
 This project is open-source and available under the MIT License
